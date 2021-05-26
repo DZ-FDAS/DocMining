@@ -1,0 +1,254 @@
+                    body, h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+    font-family : "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+h4{
+  margin-bottom: 8px;
+}
+p{
+  font-size: 13px;
+  margin-bottom: 5px;
+}
+.main-container {
+    background: #f9fafc
+}
+.header-el {
+    padding: 30px 25px;
+    border: 1px solid #f0f1f3;
+    text-align: center;
+}
+.pdf-main-con {
+    display: flex;
+    align-items: flex-start
+}
+.pdf-sec {
+    width: 65%;
+    padding: 15px 30px
+}
+.pdf-editsec {
+    width: 35%;
+    background: #edeef2;
+  box-shadow: -5px 0 5px -5px #bbb
+}
+.btn-sec {
+    border: 1px solid #afafaf;
+    padding: 7px 12px;
+    border-radius: 4px;
+    display: inline-block;
+    min-width: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+.mrg-rght {
+    margin-right: 15px
+}
+.pdf-sec .btn-con {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 30px;
+}
+.pdf-sec .btn-sec {
+    min-width: 45px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.save-btn {
+    background: #215c63;
+    color: #fff
+}
+.header-sec, .dsp-f {
+    display: flex;
+  align-items: center
+}
+.btn-ele {
+    width: calc(100% - 66px);
+}
+h2 {
+    text-transform: uppercase
+}
+.box-ele {
+    background: #fff;
+    border-radius: 6px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center
+}
+.header-sec, .pdf-edit-con {
+    padding: 15px;
+    box-sizing: border-box
+}
+.pdf-edit-con, .pdf-edit-innercon {
+    width: 100%
+}
+h2 {
+    padding-bottom: 15px
+}
+h3, .rgt-ele {
+    padding: 10px;
+}
+h3 {
+    width: 45%;
+    text-align: right
+}
+.rgt-ele {
+    border-left: 1px solid #eee;
+    width: 65%;
+    align-items: center
+}
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
+.pdf-edit-innercon {
+    padding-bottom: 15px
+}
+.pdf-icn {
+    border: 1px solid;
+    padding: 3px 7px 4px;
+    border-radius: 50%;
+}
+.pdf-icn i {
+    font-size: 12px
+}
+textarea {
+    width: 100%;
+    height: 40px;
+  box-sizing: border-box;
+      resize: vertical;
+}
+.wdth90 {
+    width: 90%;
+    margin-right: 10px
+}
+.disp-b {
+    display: block
+}
+.box-inner-ele {
+    border-bottom: 1px solid #eee
+}
+.box-inner-ele label,label{
+  padding: 10px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.header-sec {
+    box-shadow: -1px 3px 5px 0 #bababa;
+    background: #f9fafc;
+}
+.pdf-edit-con {
+    padding-bottom: 0;
+}
+.filename{
+  font-size: 12px;
+  font-weight: bold;
+}
+#one
+{
+  margin-top:50px;
+ box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.2);
+}
+.it .btn-orange
+{
+  background-color: transparent;
+  border-color: #777!important;
+  color: #777;
+  text-align: left;
+  width:100%;
+}
+.it input.form-control
+{
+  height: 54px;
+  border:none;
+  margin-bottom:0px;
+  border-radius: 0px;
+  border-bottom: 1px solid #ddd;
+  box-shadow: none;
+}
+.it .form-control:focus
+{
+  border-color: #ff4d0d;
+  box-shadow: none;
+  outline: none;
+}
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.it .btn-new, .it .btn-next
+{
+  margin: 30px 0px;
+  border-radius: 0px;
+  background-color: #333;
+  color: #f5f5f5;
+  font-size: 16px;
+  width: 155px;
+}
+.it .btn-next
+{
+  background-color: #ff4d0d;
+  color: #fff;
+}
+.it .btn-check
+{
+  cursor:pointer;
+  line-height:54px;
+  color:red;
+}
+.it .uploadDoc
+{
+  margin-bottom: 20px;
+}
+.it .uploadDoc
+{
+  margin-bottom: 20px;
+}
+.it .btn-orange img {
+    width: 30px;
+}
+p.info
+{
+  font-size:12px;
+  text-align:center;
+  margin:30px 0px;
+}
+.it #uploader .docErr
+{
+  position: absolute;
+    right:auto;
+    left: 10px;
+    top: -56px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #fff;
+    color: red;
+    box-shadow: 0px 0px 7px 2px rgba(0,0,0,0.2);
+    display: none;
+}
+.it #uploader .docErr:after
+{
+  content: '\f0d7';
+  display: inline-block;
+  font-family: FontAwesome;
+  font-size: 50px;
+  color: #fff;
+  position: absolute;
+  left: 30px;
+  bottom: -40px;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.2);
+}
+.p10{
+  padding: 10px;
+}

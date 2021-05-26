@@ -1,0 +1,17 @@
+datefinder==0.7.1
+Django
+djangorestframework==3.12.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
+fuzzywuzzy==0.18.0
+jsonschema
+nltk 
+numpy 
+pandas 
+psycopg2 
+pycparser 
+pyOpenSSL 
+python-dateutil
+regex 
+requests 
+spacy == 3.0.0
+sqlparse 

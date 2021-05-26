@@ -1,0 +1,229 @@
+
+Supplier Number: 23232323
+
+
+Master Supplier Services Agreement
+
+This Master Supplier Services Agreement (the "Agreement") is between Nippon India Company, a chennai based corporation and Microsoft, a bangalore based corporation, (the "Supplier"). This Agreement will be effective on the date noted below (the "13/March/2017").
+
+
+
+
+1. Definitions
+(a) "Affiliate(s)" means any legal entity that owns, is owned by, or is commonly owned with a party. "Own" means having more than 50% ownership or the right to direct the management of the entity; 
+(b) "Claim(s)" means all third-party claims, actions, demands, proceedings, damages, costs and liabilities of any kind;
+(c)  "Deliverables" means all IP or other work product developed by Supplier (or a Subcontractor of Supplier) for Microsoft under a SOW or as part of the Services;
+(d) "Excluded License" means any software license requiring, as a condition of use, modification and/or distribution that the software or other software combined and/or distributed with it be (a) disclosed or distributed in source code form; (b) licensed to make derivative works; or (c) redistributable at no charge;
+(e) "Intellectual Property" or "IP" means all intellectual property rights throughout the world, whether existing under statute or at common law or equity, now or hereafter in force or recognized, including: 
+(1) Copyrights, trade secrets, trademarks and servicemarks, patents, inventions, designs, logos and trade dress, "moral rights," mask works, publicity rights, and privacy rights; and 
+(2) Any application or right to apply for any of the rights referred to in Section 1(e)(1), and all renewals, extensions and restorations;
+(f)  "Microsoft Materials" means any tangible or intangible materials (including hardware, software, source code, documentation, methodologies, know how, processes, techniques, ideas, concepts, technologies, and data) provided by or on behalf of Microsoft to Supplier to perform the Services. Microsoft Materials include any modifications to, or derivative works of, the foregoing materials, the Trademarks and any data entered into any Supplier database as part of the Services. Microsoft Materials do not include:
+(1) Any Microsoft products obtained by Supplier outside of this Agreement; or 
+(2) Any source code as described, defined, or listed in any License Forms between the parties. "License Form" is defined in the Supplier Source Code License Form between the parties. 
+(g) "Policies" means policies, procedures, requirements and guidelines described in this Agreement or provided to Supplier by Microsoft;
+(h) "Services" means the services specified in a SOW or otherwise performed by Supplier under this Agreement;
+(i) "SOW(s)" means any of the following which describe Services and/or Deliverables ordered under this Agreement: 
+(1) Microsoft purchase order(s); 
+(2) Electronic statement(s) of work transmitted by Microsoft; or 
+(3) Written agreement(s) signed by authorized representatives of both parties expressly referencing this Agreement;
+(j)  "Subcontractor(s)" means either a third party to whom Supplier delegates one or more of its obligations under this Agreement or a Supplier Affiliate not contracting directly with Microsoft; 
+(k) "Supplier IP" means:
+(1) Supplier’s pre-existing or independently developed proprietary tools, processes or IP; and
+(2) Any modifications to or derivative works of the foregoing that Supplier creates as a part of the Services, to the extent such modifications or derivative works have no functionality separate from Supplier IP; 
+(l) "Trademarks" means trademarks, servicemarks and logos identified and provided by Microsoft under a SOW.
+2. Provision of Services: scope and requirements 
+(a) Scope of Services to be described in SOW. The parties will describe the Services in one or more SOWs. This Agreement applies to each SOW. Any Microsoft Affiliate may enter into a SOW with Supplier or Supplier Affiliate existing at the time of the Effective Date for Services under this Agreement, and any necessary local legal requirements will be documented separately in writing, as agreed to by the parties. The parties may agree to change a SOW. Supplier will, at its own expense:
+(1) Obtain and maintain approvals, licenses, filings or registrations necessary to perform the Services; and 
+(2) Comply with all applicable laws (including export laws and regulations).
+(i) The Services and related technology are subject to U.S. and other countries’ export jurisdiction. Supplier must comply with all applicable international and national laws, including the U.S. Export Administration Regulations, the International Traffic in Arms Regulations, Office of Foreign Assets Control sanctions programs, and end-user, end use and destination restrictions by U.S. and other governments. For additional information, see http://www.microsoft.com/exporting.
+(c) Affirmative Action Clause for Microsoft Suppliers on Covered Subcontracts for the United States government. 
+(1) Contractors and suppliers doing business with Microsoft on a covered contract in the United States will comply with all Federal, State, and local labor and employment laws.
+(2) This contractor and subcontractor will abide by the requirements of 41 CFR §§ 60-1.4(a), 60-300.5(a) and 60-741.5(a) and incorporate the requirements of these regulations if applicable. These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, or national origin. These regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, national origin, protected veteran status or disability. 
+(d) Acceptance of Deliverables. Unless otherwise agreed, Microsoft will evaluate each Deliverable and accept or reject it within 15 business days after receipt; otherwise the Deliverable will be deemed accepted. Supplier will have 10 business days to fix any Deliverable after receiving notice from Microsoft. If Supplier does not fix the Deliverable, Microsoft may reject the Deliverable without further obligation or work with Supplier to resolve the issue. 
+(e) Supplier to comply with Microsoft policies and procedures. Supplier will comply with Microsoft’s Policies. 
+(1) Supplier Guidelines and Supplier Code of Conduct. Supplier will comply with the most current Supplier Guidelines ("SG") and the Supplier Code of Conduct. The most current versions of the SG and Supplier Code of Conduct are available at http://www.microsoft.com/about/companyinformation/procurement/process/en/us/?contracting.aspx. 
+(2) Using Microsoft Trademarks. Supplier may only use the Trademarks for the Services and Deliverables. Supplier will comply with the guidelines at http://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/?Usage/default.aspx. 
+3. Ownership and use of the parties’ respective IP
+(a) Ownership of pre-existing IP. Each party will own and retain all rights to its pre-existing IP and any IP developed outside of the Services performed under this Agreement. 
+(b) Supplier’s use of Microsoft Materials. 
+(1) License to use Microsoft Materials.
+(i) Microsoft grants Supplier a nonexclusive, revocable license to copy, use and distribute any Microsoft Materials provided to it to the extent necessary to perform the Services. Microsoft or its suppliers retain all other interest in Microsoft Materials and related IP. Supplier has no right to sublicense the right to use Microsoft Materials, except as necessary to any approved Subcontractor. 
+(ii) If the Microsoft Materials come with a separate license, the terms of that license will apply. Those other Microsoft license terms, including any applicable source code License Form, control in the case of conflict with this Agreement.
+(iii) Supplier will take all reasonable precautions to protect and ensure against loss or damage, theft, or disappearance of the Microsoft Materials. 
+(2) Termination of license and return of Microsoft Materials. Microsoft may revoke the license to Microsoft Materials at any time for any reasonable business reason. The license will terminate automatically on the earlier of the expiration or termination of:
+(i) This Agreement; or 
+(ii) The applicable SOW. 
+Supplier will promptly return any Microsoft Materials on request or termination of Supplier’s license.
+(3) Additional provisions. Regarding Supplier’s use of Microsoft Materials:
+(i) Supplier will not modify, reverse engineer, decompile, or disassemble Microsoft Materials except as allowed by Microsoft to perform Services; 
+(ii) Supplier will leave in place, and not alter or obscure, all proprietary notices and licenses contained in Microsoft Materials;
+(iii) Microsoft is not obligated to provide technical support, maintenance or updates for Microsoft Materials;
+(iv) All Microsoft Materials are provided "as-is" without warranty of any kind; and
+(v) Supplier assumes the risk of loss, damage, unauthorized access or use, or theft or disappearance of Microsoft Materials in Supplier’s (or Subcontractors’) care, custody or control.
+(c) Supplier’s use of non-Microsoft IP. Supplier will obtain Microsoft’s express written consent before using any Supplier IP or third party IP in a manner that would: 
+(1) Cause it to be included in any Deliverables; 
+(2) Alter or affect Microsoft’s ownership interests in any Deliverables; or
+(3) Be required for the Deliverables to be used, modified or distributed by Microsoft. 
+(d) If Microsoft permits Supplier to use any Supplier IP or Supplier IP is incorporated into any Deliverable without Microsoft’s permission, then Supplier will continue to own the Supplier IP. Supplier grants Microsoft a worldwide, nonexclusive, perpetual, irrevocable, royalty-free, fully paid up right and license, under all current and future IP, to:
+(1) Make, use, reproduce, format, modify, and create derivative works of the applicable Supplier IP; 
+(2) Publicly perform or display, import, broadcast, transmit, distribute, license, offer to sell and sell, rent, lease or lend copies of the applicable Supplier IP and derivative works thereof;
+4. Supplier compensation
+(a) Microsoft’s payment of Fees. 
+(1) Microsoft will pay Supplier fees set forth in each SOW ("Fees"). A Supplier rate card, if one is attached to this Agreement, will provide ceiling rates for Microsoft.  Supplier will be responsible for all expenses it incurs unless otherwise agreed in a SOW. Supplier will not mark up any expenses Microsoft agrees to pay unless otherwise agreed in a SOW. Supplier has no right of offset against amounts Microsoft owes.
+(2) Unless otherwise agreed in a SOW, after Microsoft accepts the Services and receives a proper and undisputed invoice, it will pay the Fees and approved expenses: 
+(i) Net 15 days less a 2% discount on the invoiced amount; or
+(ii) Net 30 days with no discount. 
+(3) Microsoft will make all payments to Supplier according to Microsoft’s then-current payment Policies.
+(b) "MS Invoice" requirements. Supplier will invoice Microsoft for all Fees and approved expenses via the "MS Invoice" online tool according to the requirements at https://einvoice.microsoft.com and the SG. Supplier will not charge Microsoft for researching, reporting on or correcting any invoice-related errors. Supplier will not date its invoices earlier than the date Supplier may be paid under the applicable SOW. If a date is not specified in a SOW, Supplier may issue its invoices monthly in arrears.
+(c) Disputed Amounts. Microsoft may dispute any invoice amount (each, a "Disputed Amount") by providing oral or written notice. Partial payment is notice from Microsoft of a Disputed Amount. Microsoft will make commercially reasonable efforts to notify Supplier in writing of any Disputed Amount within 60 days of receiving the applicable invoice. Neither failing to provide notice nor payment of an invoice is a waiver of any claim or right. Microsoft will have 60 days from the date a dispute is resolved to pay Supplier. 
+(d) Late invoices. Microsoft has no obligation to pay any invoice received 120 days or more after the date Supplier was required to invoice Microsoft under this Agreement or any applicable SOW. This does not apply to: 
+(1) Disputed Amounts; 
+(2) Rejected invoices subject to correction; 
+(3) Invoices, which are delayed due to the actions or inactions of Microsoft; or 
+(4) Delays agreed upon in writing.
+(e) Taxes.
+(1) Except as otherwise provided below, the amounts to be paid by Microsoft to Supplier do not include any taxes. Microsoft is not liable for any taxes that Supplier is legally obligated to pay, including, but not limited to net income or gross receipts taxes, franchise taxes, and property taxes. Microsoft will pay Supplier any sales, use or value added taxes it owes due to this Agreement and which the law requires Supplier to collect from Microsoft. If Microsoft provides Supplier a valid exemption certificate, Supplier will not collect the taxes covered by such certificate. Supplier will indemnify and hold Microsoft harmless from any claims, costs (including reasonable attorneys’ fees) and liabilities that relate to Supplier’s taxes. 
+(2) If the law requires Microsoft to withhold taxes from payments to Supplier, Microsoft may withhold those taxes and pay them to the appropriate taxing authority. Microsoft will deliver to Supplier an official receipt for such taxes. Microsoft will use reasonable efforts to minimize any taxes withheld to the extent allowed by law.
+(3) Despite any other provision in this Agreement, this section will govern the treatment of all taxes relating to this Agreement.
+5. Term and termination
+(a) Term. This Agreement commences on the Effective Date and will continue for the term on the first page of this Agreement (the "Term") unless it is:
+(1) Terminated earlier according to its terms; or 
+(2) Extended by a written and signed amendment. 
+(b) Termination for convenience.  Without prejudice to any other remedies:
+Microsoft may terminate this Agreement, any License Form subject to this Agreement, or any SOW, at any time without cause by giving 30 days’ written notice. If Microsoft terminates for convenience, its only obligation is to pay for: 
+(i) Services or Deliverables it accepts before the effective date of termination; or 
+(ii) Services performed, where Microsoft retains the benefit after the effective date of termination. 
+(c) Termination for cause. 
+(1) Mutual right. Either party may terminate this Agreement, any License Form subject to this Agreement, or any SOW on the other party’s material breach of this Agreement or a SOW. The nonbreaching party must give 30 calendar days written notice and the opportunity to cure its breach. Either party may immediately terminate this Agreement on written notice of a breach of Section 6 (Confidentiality, privacy and data protection, and Publicity) of this Agreement.
+(2) Microsoft’s right. Microsoft may terminate this Agreement, any License Form subject to this Agreement, or any SOW effective immediately upon written notice if Supplier breaches Sections 2© (Acceptance of Deliverables) through 2(f) (Supplier to provide equipment and technology), 3 (Ownership and use of the parties’ respective IP), 7 (Representations and warranties), 10 (Insurance) or 12(d) (Assignment) or if Supplier sells a substantial part of Supplier’s assets to a third party. Microsoft may terminate this Agreement, effective immediately upon written notice, if Supplier is noncompliant in its use of Microsoft software.
+(d) Effect of termination. Each party will return the Confidential Information and property of the other within 10 calendar days of the effective date of termination of this Agreement or any SOW unless otherwise instructed. Supplier will deliver to Microsoft any affected Deliverables in progress and all data and materials related to them. Supplier will assist Microsoft with a post-termination transition at Microsoft’s request. Supplier’s assistance will not exceed 60 calendar days. Microsoft will pay Supplier for its assistance at a rate no greater than that set forth in any SOW for comparable services. 
+(e) Survival. The provisions of this Agreement which, by their terms, require performance after the termination or expiration of this Agreement, or have application to events that may occur after the termination or expiration of this Agreement, will survive the termination or expiration of this Agreement. All indemnity obligations and any applicable indemnification procedures will be deemed to survive the termination or expiration of this Agreement.
+6. Confidentiality, privacy and data protection, and Publicity
+(a) Confidentiality. 
+(1) Existing NDA. The information shared under this Agreement is confidential information subject to the nondisclosure agreement ("NDA") between the parties dated __13-Mar-2017________. Section 6(a)(2) below will apply if information related to Services under this Agreement was shared prior to execution of the NDA, there is no existing NDA, or if such existing NDA is terminated or otherwise ceases to be in effect.
+(2) Confidential Information. During the Term, and for five years thereafter, Supplier will hold in strictest confidence, and will not use or disclose to any third party, any Microsoft Confidential Information. The term "Microsoft Confidential Information" means all non-public information that Microsoft designates, either in writing or orally, as being confidential, or which, under the circumstances of disclosure ought to be treated as confidential. Microsoft Confidential Information includes information relating to:
+(i) Released or unreleased Microsoft software or hardware products;
+(ii) Microsoft source code;
+(iii) Marketing or promotion of any Microsoft product;
+(iv) Business policies or practices of Microsoft;
+(v) Customers or suppliers of Microsoft;  
+(vi) Information received from others that Microsoft must treat as confidential; 
+(vii) The existence and terms of this Agreement; and 
+(viii) Information provided by Microsoft under this Agreement or obtained or created by Supplier while providing the Services, including: 
+   * Information in any reports provided to Microsoft;
+   * Any electronic or written correspondence between the parties;
+* Microsoft customer lists, customer information and Personal Information, regardless of the source; and 
+* Transactional, sales and marketing information related to the Services. 
+If Supplier has questions regarding what comprises Microsoft Confidential Information, Supplier will consult Microsoft. Microsoft Confidential Information does not include information known to Supplier prior to Microsoft’s disclosure to Supplier, or information that becomes publicly available through no fault of Supplier.
+(3) Security procedures. Supplier will employ security procedures to prevent disclosure of Microsoft Confidential Information (including Personal Information) to unauthorized third parties. Supplier’s security procedures must include risk assessment and controls for:
+(i) System access; 
+(ii) System and application development and maintenance; 
+(iii) Change management; 
+(iv) Asset classification and control; 
+(v) Incident response, physical and environmental security; 
+(vi) Disaster recovery/business continuity; and 
+(vii) Employee training. 
+(b) Privacy and data protection. 
+(1) "Personal Information" means any information provided by Microsoft or collected by Supplier under this Agreement: 
+(i) That identifies or can identify, contact, or locate the person to whom such information pertains; or 
+(ii) From which identification or contact information of an individual person can be derived. Personal Information includes, but is not limited to: name, address, phone number, fax number, e-mail address, social security number or other government-issued identifier, and credit card information. To the extent any other information (e.g., a personal profile, unique identifier, biometric information, and/or IP address) is associated or combined with Personal Information, then such information is also Personal Information. 
+7. Representations and warranties
+Supplier represents and warrants: 
+(a) Supplier has full rights and authority to enter into and perform according to this Agreement;
+(b) Supplier’s performance will not violate any agreement or obligation between Supplier and any third party; 
+(c) The Deliverables and any Supplier IP or third-party IP provided to Microsoft under this Agreement:
+(1) Are not governed, in whole or in part, by an Excluded License; and 
+(2) Will not be subject to license terms that seek to require any Microsoft product, service, or documentation incorporating or derived from the Deliverables or any Supplier IP or third party IP licensed to Microsoft hereunder, or any Microsoft IP, to be licensed or shared with any third party;
+(d) The Services will be performed professionally and be of high grade, nature and quality;
+(e) The Services, the Deliverables and any Supplier IP or third-party IP provided to Microsoft under this Agreement will not: 
+(1) To the best of Supplier’s knowledge, infringe any patent, copyright, trademark, trade secret or other proprietary right of any third party; or
+(2) Contain any viruses or other malicious code that will degrade or infect any Deliverables, product, service, or any other software or Microsoft’s network or systems;
+(f) Any Microsoft software in Supplier’s possession is properly licensed for use. 
+(g) Compliance with Anti-Corruption laws. Supplier will comply with and provide training to its employees regarding all applicable laws against bribery, corruption, inaccurate books & records, inadequate internal controls and money-laundering, including the U.S. Foreign Corrupt Practices Act ("Anti-Corruption Laws") while performing under this Agreement. 
+EXCEPT AS SET FORTH IN THIS SECTION 7 (REPRESENTATIONS AND WARRANTIES), THE SERVICES AND THE DELIVERABLES ARE PROVIDED "AS IS." TO THE MAXIMUM EXTENT PERMITTED BY LAW, SUPPLIER DISCLAIMS ANY AND ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE, WHETHER ARISING BY A COURSE OF DEALING, USAGE OR TRADE PRACTICE OR COURSE OF PERFORMANCE.
+8. Indemnification and other remedies
+(a) Indemnification by Supplier. Supplier will defend, indemnify, and hold Microsoft, its Affiliates, and their respective successors, directors, officers, employees and agents (each a "Microsoft Indemnified Party") harmless from and against all Claims to the extent that such Claims arise out of or relate to: 
+(1) Any breach of any representation or warranty contained in Section 7(a) or 7(b) by Supplier or its Subcontractors; 
+(2) The negligent or willful acts or omissions of Supplier or its Subcontractors resulting in any bodily injury or death to any person or loss, disappearance or damage to tangible or intangible property; 
+(3) Supplier’s (or its Subcontractor’s) infringement, misuse or misappropriation of any third-party IP rights; 
+(4) Breach of any obligations under Section 6 (Confidentiality, privacy and data protection, and Publicity); 
+(5) Supplier’s (or its Subcontractor’s) failure to comply with applicable laws, rules or regulations; or 
+(6) Any action instituted by Supplier personnel against Microsoft for wages, fringe benefits,  other compensation, or similar claims under applicable law, and any claims challenging the Supplier’s right to dismiss its personnel. 
+However, Supplier will have no liability under this Section 8(a) (Indemnification by Supplier) to the comparative extent that Claims result from:
+(i) The negligent or willful acts of a Microsoft Indemnified Party; or 
+(ii) Supplier’s compliance with the express instructions of Microsoft.
+(b) Indemnification by Microsoft. Microsoft will defend, indemnify, and hold Supplier, its Affiliates, and their respective successors, directors, officers, employees, and agents (each a "Supplier Indemnified Party") harmless from and against all Claims to the extent that the Claims arise out of or relate to: 
+(1) The negligent or willful acts or omissions of Microsoft resulting in any bodily injury or death to any person or loss, disappearance or damage to tangible or intangible property; or 
+(2) Microsoft’s failure to comply with applicable laws, rules or regulations. 
+However, Microsoft will have no liability under this Section 8(b) (Indemnification by Microsoft) to the comparative extent that Claims result from the negligent or willful acts of a Supplier Indemnified Party.
+(c) Indemnification procedures. The indemnified party will:
+(1) Provide the indemnifying party with reasonably prompt notice of Claims;
+(2) Permit the indemnifying party through mutually acceptable counsel to answer and defend Claims; and 
+(3) Provide the indemnifying party with reasonable information and assistance to help the indemnifying party defend Claims at the indemnifying party’s expense.
+Any indemnified party may employ separate counsel and participate in the defense of any Claim at its own expense. 
+(d) Acknowledgment of fault and settling Claims. Neither party will stipulate, admit, or acknowledge any fault or liability by the other without prior written consent. The indemnifying party will not settle any Claim or publicize any settlement without the other party’s prior written consent.
+(e) Industrial insurance immunity. Except to the extent prohibited by law and solely regarding bodily injury or death Claims, Supplier expressly waives immunity under industrial insurance laws such as Title 51 of the Revised Code of the State of Washington, U.S.
+(f) Other remedies. In addition to all other remedies available to Microsoft at law or equity or under this Agreement, Microsoft will have the following remedies:
+(1) Injunctions against use of Deliverables. If use of the Deliverables as contemplated by this Agreement is enjoined or threatened to be enjoined, Supplier, at its expense, will notify Microsoft and immediately: 
+(i) Procure for Microsoft the right to continued use of the Deliverables according to this Agreement; or 
+(ii) Replace or modify the Deliverables so that they are noninfringing and meet the requirements of this Agreement to Microsoft’s satisfaction. 
+If Supplier does not comply with Sections 8(f)(1)(i) or 8(f)(1)(ii), then in addition to any damages or expenses reimbursed under this Section 8 (Indemnification and other remedies), Microsoft may terminate this Agreement, in whole or in part, and any SOW. Upon termination, Supplier will refund all amounts paid by Microsoft for infringing Deliverables and will pay all reasonable costs to transition the Services to a new supplier.
+(2) Misuse of Microsoft property. If Supplier misappropriates or fails to return Microsoft Materials or any Microsoft property according to this Agreement, Supplier will pay Microsoft the estimated retail price for such Microsoft Materials or property.
+9. Limitations of liability
+(a) SUBJECT TO SECTION 9(b) BELOW, NEITHER PARTY WILL BE LIABLE TO THE OTHER FOR ANY CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF DATA, REVENUE, AND/OR PROFITS), WHETHER FORESEEABLE OR UNFORESEEABLE, ARISING OUT OF THIS AGREEMENT REGARDLESS OF WHETHER THE LIABILITY IS BASED ON BREACH OF CONTRACT, TORT, STRICT LIABILITY, BREACH OF WARRANTIES OR OTHERWISE, AND EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF THOSE DAMAGES. ADDITIONALLY, NEITHER PARTY’S TOTAL AGGREGATE LIABILITY TO THE OTHER PARTY WILL EXCEED THE GREATER OF:
+(1) $2 MILLION US OR THE EQUIVALENT IN LOCAL CURRENCY; OR 
+(2) THE ACTUAL FEES PAID BY MICROSOFT IN THE 12-MONTH PERIOD PRIOR TO THE DATE THE CLAIM AROSE.
+(b) THE LIMITATIONS ON LIABILITY SET FORTH IN SECTION 9(a) DO NOT APPLY TO LIABILITY ARISING FROM: 
+(1) A PARTY’S DUTY TO INDEMNIFY THE OTHER FOR THIRD-PARTY CLAIMS UNDER THIS AGREEMENT; 
+(2) A BREACH OF A PARTY’S CONFIDENTIALITY, PRIVACY, DATA PROTECTION AND PUBLICITY OBLIGATIONS UNDER THIS AGREEMENT; 
+(3) ANY INFRINGEMENT, MISUSE OR MISAPPROPRIATION OF ANY INTELLECTUAL PROPERTY RIGHTS; OR 
+(4) FRAUD.
+10. Insurance
+(a) General. Supplier will maintain sufficient insurance coverage to meet obligations created by this Agreement and by law. Supplier’s insurance must include the following coverage (or the equivalent limits in applicable local currency) to the extent the Agreement creates risks generally covered by these insurance policies:
+(1) Commercial General Liability (occurrence form) including contractual and product liability with limits of at least $500,000 US per occurrence;
+(2) Automobile liability with limits of at least $500,000 US per occurrence;
+(3) Workers’ compensation that satisfies all statutory limits; and 
+(4) Employer’s liability with limits of at least $100,000 US per occurrence. 
+Supplier will name Microsoft, its subsidiaries, and their respective directors, officers and employees as additional insureds in the Commercial General Liability policy, for contractual liability assumed by Supplier in Section 8 (Indemnification and other remedies) of this Agreement. 
+(b) Professional liability/
+(c) errors & omissions liability. Supplier will purchase and maintain professional liability/errors and omissions insurance if the Services it performs create exposures generally covered by such a policy. The policy will: 
+(1) Have limits of at least $2,000,000 US per claim, or the equivalent limits in applicable local currency;
+(2) Cover infringement of third party proprietary rights (including, for example, copyright, and trademark) if such coverage is reasonably commercially available;  and 
+(3) Have a retroactive coverage date no later than the effective date of the applicable SOW.  
+Supplier will maintain either active policy coverage or an extended reporting period providing coverage for claims first made and reported to the insurance company within 12 months after termination or expiration of this Agreement or fulfillment of a SOW.
+(d) Deductible. Unless agreed to otherwise in writing by the parties, for all lines of coverage listed above in Sections 10(a) and 10(b), Supplier must maintain a deductible or retention of no more than $100,000 US per occurrence or accident throughout the Term.
+(e) Proof of Coverage. Upon request, Supplier will provide Microsoft with proof of insurance coverage required by this Section. If Microsoft reasonably determines that Supplier’s coverage is less than that required to meet its obligations, Supplier will promptly buy additional coverage and notify Microsoft in writing. 
+11. Reports, records, audits and inspections
+(a) Reports. Any reports Supplier provides to Microsoft must be accurate, complete and timely. Supplier will correct any error or omission in any report within five days after becoming aware of the error or omission.
+(b) Records. During the Term and for four years thereafter, Supplier will keep all usual and proper records and books of account and all quality and performance reports related to the Services or the Deliverables ("Supplier Records"). Supplier will maintain any documentation required by Microsoft in connection with the United States Sarbanes-Oxley Act of 2002. Supplier will not do or omit to do anything that could prejudice Microsoft’s compliance with that Act.
+(c) Financial Statements.  If not publicly available, upon request of Microsoft, Supplier will provide Microsoft with its most recent financial statements.   A "financial statement" means a balance sheet as of the last day of the calendar quarter or fiscal year, an income statement, statement of cash flows, and any related notes for the quarter and year-to-date, prepared under "GAAP", international financial representation standards, or other generally accepted accounting principles in Supplier’s jurisdiction.  Supplier must clearly note any departure in the quarterly financial statements from these principles.  Such financial statements must be signed by an authorized officer of Supplier acknowledging that such financial statements are complete and accurate of Supplier’s books and accounts.
+(d) Audits, inspections, and refunds.
+(1) During the period described in Section 11(b) (Records), Microsoft may audit Supplier Records and/or inspect Supplier facilities to verify Supplier’s statements and compliance with this Agreement, including but not limited to privacy or security requirements, and other Microsoft software licensing requirements. Audits and inspections will be conducted by Microsoft or an independent certified public accountant or consultant selected by Microsoft. Microsoft will provide reasonable notice to Supplier prior to the start of the audit or inspection and will use best efforts to avoid disrupting Supplier’s operations, including consolidating audits where practical. Supplier will provide reasonable access to the relevant Supplier Records, Microsoft contracts and facilities. The auditors can copy Supplier Records for audit evidence.  
+(2) If the auditors determine that Supplier was overpaid by Microsoft, Supplier will reimburse Microsoft for any such overpayment. Microsoft will bear the expense of its selected auditors or inspection team. However, if the audit shows Supplier overcharged Microsoft by 5% or more during the period of such audit, then in addition to reimbursing Microsoft for the overcharge, Supplier will pay Microsoft for all reasonable costs and expense incurred conducting the audit and pay interest at 0.5% per month on the overcharge.
+(3) For any audits related to Anti-Corruption Laws, besides the obligations above, Supplier will maintain any books, documents, records, papers or other materials related to this Agreement (the "Relevant Records") and will also maintain a system of internal controls to prevent the payment of bribes and provide reasonable assurance that financial statements and reporting are accurate.  Supplier will not have undisclosed or unrecorded accounts for any purpose and false, misleading, incomplete, inaccurate or artificial entries in the books and records are prohibited.  The Relevant Records and, if requested, any relevant employees will be made available to Microsoft or an independent certified public accountant or consultant selected by Microsoft.  Microsoft may exercise its rights under this provision at any time if it in good faith believes that Supplier or its representatives violate any Anti-Corruptions Laws under this Agreement.
+12. Miscellaneous
+(a) Relationship. The parties are independent contractors. This Agreement does not create an exclusive relationship between the parties. Supplier’s employees and Subcontractors are not Microsoft employees. Supplier will provide Microsoft with satisfactory proof of independent contractor status upon request.
+(b) Governing law; jurisdiction. For all Deliverables and Services provided to Microsoft, the laws, jurisdiction and venue of the country of Microsoft’s location will govern this Agreement. If either Microsoft or Supplier employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing party may recover its reasonable attorneys’ fees, costs, and other expenses, including the costs and fees incurred on appeal or in a bankruptcy or similar action.
+(c) No waiver.  A party’s delay or failure to exercise any right or remedy will not result in a waiver of that or any other right or remedy.
+(d) Assignment. Supplier will not sell, assign, transfer, pledge or encumber this Agreement or any right, or delegate any duty or obligation under this Agreement, by assignment or operation of law, without Microsoft’s prior written consent. Microsoft will not unreasonably withhold such consent. Supplier will be deemed to have assigned this Agreement if Supplier engages in a change of control transaction. Microsoft may assign this Agreement to any of its Affiliates. This Agreement will inure to the benefit of and bind all permitted successors, assigns, receivers and trustees of each party.
+(e) Force majeure. Neither party will be liable for failure to perform any obligation under this Agreement to the extent such failure is caused by a force majeure event (including acts of God, natural disasters, war, civil disturbance, action by governmental entity, strike and other causes beyond the party’s reasonable control). The party affected by the force majeure event will provide notice to the other party within a commercially reasonable time and will use its best efforts to resume performance. Obligations not performed due to a force majeure event will be performed as soon as reasonably possible when the force majeure event concludes.
+(f) Severability. If any court of competent jurisdiction determines that any provision of this Agreement is illegal, invalid or unenforceable, the remaining provisions will remain in full force and effect.
+(g) Insolvency, Loss of Profits, Damages. The insolvency or adjudication of bankruptcy, the filing of a voluntary petition in bankruptcy, or the making of an assignment for the benefit of creditors by either party will be a material breach of this Agreement.  For the purposes of this Agreement, "insolvency" means either (a) the party’s liabilities exceed its assets, each fairly stated, or (b) the party’s failure to timely pay its business obligations in the regular course of business.
+(h) Entire agreement, precedence and amendment. This Agreement supersedes all prior and contemporaneous communications, whether written or oral, regarding the subject matter covered in this Agreement.   Any preceding master agreement, listed in an exhibit to this Agreement, if any, previously executed between the parties (each a "Prior Agreement") is terminated, except that any SOWs under the Prior Agreement that have not expired or been terminated will survive according to the terms of the Prior Agreement as if the Prior Agreement were still in effect, provided that the SOWs cannot be extended beyond the current term as of the Effective Date of this Agreement.  In the event of a conflict between any parts of this Agreement not resolved expressly by its terms, the following order of precedence will apply:
+(1) This Agreement (including any Microsoft policies and procedures referenced herein); 
+(2) A signed SOW, except if this Agreement or the SOW expressly provides that a particular section of the SOW takes precedence over a particular section of this Agreement; and 
+(3) Microsoft purchase order terms and conditions. 
+This Agreement may be modified only by a written agreement signed by duly authorized representatives of both parties. However, Microsoft may unilaterally modify the policies and procedures identified in Section 2(d) (Supplier to comply with Microsoft policies and procedures). This Agreement does not replace any separate written license agreement between Microsoft and Supplier, and any conflicts with licensing of Microsoft Materials will be resolved as provided in Section 3(b)(1)(ii).
+(i) Notices. Notices may be provided either by electronic or physical mail. The person(s) identified on the first page of this Agreement will receive notices on behalf of their respective company. Each party may change the persons to whom notices will be sent by giving notice to the other.
+(j) Counterparts. The parties may execute this Agreement in any number of counterparts. Each counterpart will be deemed an original and all counterparts will constitute one agreement binding on both parties. Facsimile and electronic signatures will be binding for all purposes.
+(k) Construction. Neither party has entered this Agreement in reliance on any promise, representation, or warranty not contained herein. This Agreement will be construed according to the fair intent of the language as a whole, and not for or against either party.
+
+[Remainder of this page is intentionally left blank]
+	 
+
+Master Supplier Services Agreement (June 2016)(India)		- 17 -
+
+
+
+Master Supplier Services Agreement (June 2016)(India)
+

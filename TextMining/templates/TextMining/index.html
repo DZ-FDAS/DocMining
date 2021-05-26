@@ -1,0 +1,71 @@
+<!DOCTYPE doctype html>
+{% load static %}
+<html>
+    <head>
+        <meta charset="utf-8">
+            <title>
+                Index
+            </title>
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+            <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+            <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+            <link rel="stylesheet" type="text/css" href="{% static 'TextMining/style.css' %}">
+        </meta>
+    </head>
+    <body>
+        <form enctype = "multipart/form-data" action = "MainFun" method = "POST" >
+        <div class="container">
+            <div class="row it">
+                <div class="col-sm-offset-1 col-sm-10" id="one">
+                    <h2 class="text-center p10">
+                        File Upload
+                    </h2>
+                    <div class="row">
+                        <div class="col-sm-offset-4 col-sm-4 form-group">
+                            <p class="info">
+                                Please upload documents only in 'pdf', 'docx', 'rtf', 'jpg', 'jpeg', 'png' & 'text' format.
+                            </p>
+                        </div>
+                        <!--form-group-->
+                    </div>
+                    <!--row-->
+                    <div id="uploader">
+                        <div class="row uploadDoc">
+                            <div class="col-sm-4 col-sm-offset-4">
+                                <div class="docErr">
+                                    Please upload valid file
+                                </div>
+                                <!--error-->
+                                <div class="fileUpload btn btn-orange">
+                                    <img class="icon" src="https://image.flaticon.com/icons/svg/136/136549.svg">
+                                        <span class="upl" id="upload">
+                                            Upload document
+                                        </span>
+                                        <input class="upload up" id = "up" name="myfile" onchange="readURL(this);" type="file"/>
+                                    </img>
+                                </div>
+                                <!-- btn-orange -->
+                            </div>
+                            <!-- col-3 -->
+                        </div>
+                        <!--row-->
+                    </div>
+                    <!--uploader-->
+                    <div class="text-center">
+                        <button class="btn btn-next" type = "submit">
+                            <i class="fa fa-paper-plane">
+                            </i>
+                            Submit
+                        </button>
+                    </div>
+                </div>
+                <!--one-->
+            </div>
+            <!-- row -->
+        </div>
+        <!-- container -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+        </script>
+        </form>
+    </body>
+</html>

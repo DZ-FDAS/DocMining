@@ -1,0 +1,145 @@
+<!DOCTYPE doctype html>
+{% load static %}
+<html>
+    <head>
+        <meta charset="utf-8">
+            <title>
+               Document Details
+            </title>
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+            <link rel="stylesheet" type="text/css" href="{% static 'TextMining/style.css' %}">
+        </meta>
+    </head>
+    <body>
+        <div class="main-container">
+            <div class="inner-container">
+                <div class="header-el">
+                    <h1>
+                        Document Mining
+                    </h1>
+                </div>
+                <div class="pdf-main-con">
+                    <div class="pdf-sec">
+                        <div class="btn-con">
+                            <a class="btn-sec mrg-rght">
+                                <i class="fa fa-download">
+                                </i>
+                            </a>
+                            <a class="btn-sec">
+                                <i class="fa fa-angle-right">
+                                </i>
+                            </a>
+                        </div>
+                        <div class="pdf-view-con">
+                            <iframe src="{% static 'Mssa.txt' %}" style="width:100%;height:700px;">
+                            </iframe>
+                        </div>
+                    </div>
+                    <div class="pdf-editsec">
+                        <div class="header-sec">
+                            <div class="btn-ele">
+                                <a class="btn-sec mrg-rght">
+                                    cancel
+                                </a>
+                                <a class="btn-sec save-btn">
+                                    save
+                                </a>
+                            </div>
+                            <a class="btn-sec">
+                                <i class="fa fa-close">
+                                </i>
+                            </a>
+                        </div>
+                        <div class="pdf-edit-con">
+                            <div class="pdf-edit-innercon">
+                                <h4>
+                                    Dates
+                                </h4>
+                                <div class="box-ele">
+                                    <label>
+                                        Agreement Date
+                                    </label>
+                                    <div class="rgt-ele">
+                                        <p>
+                                          Nov 5, 2019
+                                        </p>
+                                        <p>
+                                            Nov 11, 2019
+                                        </p>
+                                        <input placeholder="Add Custom Value" type="text">
+                                        </input>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pdf-edit-innercon">
+                                <h4>
+                                    Documents
+                                </h4>
+                                <div class="box-ele">
+                                    <div class="rgt-ele">
+                                        <span class="">
+                                            <i class="fa fa-file-text-o">
+                                            </i>
+                                        </span>
+                                        <span class="filename">
+                                            DocumentName.pdf
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pdf-edit-innercon">
+                                <h4>
+                                    other contract info
+                                </h4>
+                                <div class="box-ele disp-b">
+                                    <div class="box-inner-ele dsp-f">
+                                        <label>Label Name</label>
+                                        <div class="rgt-ele dsp-f">
+                                            <textarea class="wdth90"></textarea>
+                                            <i class="fa fa-trash"></i>
+                                        </div>
+                                    </div>
+                                    <div class="box-inner-ele dsp-f">
+                                        <label>Label Name</label>
+                                        <div class="rgt-ele dsp-f">
+                                            <textarea class="wdth90"></textarea>
+                                            <i class="fa fa-trash"></i>
+                                        </div>
+                                    </div>
+                                    <div class="box-inner-ele dsp-f">
+                                        <label>Label Name</label>
+                                        <div class="rgt-ele dsp-f">
+                                            <textarea class="wdth90"></textarea>
+                                            <i class="fa fa-trash"></i>
+                                        </div>
+                                    </div>
+                                    <div class="box-inner-ele dsp-f">
+                                        <label>Label Name</label>
+                                        <div class="rgt-ele dsp-f">
+                                            <textarea class="wdth90"></textarea>
+                                            <i class="fa fa-trash"></i>
+                                        </div>
+                                    </div>
+                                    <div class="box-inner-ele dsp-f">
+                                        <label>Label Name</label>
+                                        <div class="rgt-ele dsp-f">
+                                            <textarea class="wdth90"></textarea>
+                                            <i class="fa fa-trash"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+        </script>
+        <script>
+            $(document).ready(function(){
+  $(window).outerHeight()
+});
+        </script>
+    </body>
+</html>
