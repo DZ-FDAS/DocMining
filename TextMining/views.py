@@ -35,7 +35,6 @@ from django.conf import settings
 
 import os
 
-
 #Reading file from path given by user
 def readFile(path):
     try:
@@ -229,6 +228,7 @@ def summarizeText(text):
 def index(request):
     return render(request,'TextMining/index.html')
 
+"""
 def fileDisplay(request):
     print("Hello")
     path1 = settings.MEDIA_ROOT
@@ -239,8 +239,12 @@ def fileDisplay(request):
     #filex = open(filepath)
     print(filepath)
     print("Hello2")
+    path2 = 'http://docs.google.com/gview?url='
+    path3 = path2+filepath
     context = {'filepath': filepath}
-    return Response(filepath)
+    print(path3)
+    return Response(path3)
+"""
 
 @api_view(['POST'])
 def MainFun(request):
